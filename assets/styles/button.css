@@ -1,0 +1,48 @@
+.recently-uploaded {
+    display: flex;
+    align-items: center;
+
+    margin-top: 25px;
+}
+
+.primary-button {
+    padding: 8px 12px 8px 12px;
+    font-size: 14px;
+    
+    border: none;
+    background-color: #0f0f0f; /*#f2f2f2*/
+    color: #ffffff;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: opacity 0.125s;
+
+}
+
+.primary-button:hover {
+    opacity: 0.8;
+}
+
+.primary-button:active {
+    opacity: 0.5;
+}
+
+.secondary-button {
+    padding: 8px 12px 8px 12px;
+    font-size: 14px;
+    
+    background-color: #f2f2f2;  
+    color: #0f0f0f;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: opacity 0.125s;
+    margin-left: 10px
+}
+
+.secondary-button:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.secondary-button:active {
+    opacity: 0.5;
+}

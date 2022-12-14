@@ -1,0 +1,35 @@
+.channel {
+    display: grid;
+    grid-template-columns: 100px 200px 1fr;
+    align-items: center;
+}
+
+.channel-left {
+    width: 80px;
+}
+
+.channel-img {
+    width: 100%;
+    border-radius: 100%;
+}
+
+
+.channel-subscribe {
+    display: flex;
+    justify-content: end;
+}
+
+.channel-title {
+    font-size: 25px;
+    margin-top: -4px;
+}
+
+.channel-handle {
+    margin-top: 4px;
+    font-size: 14px;
+    color: #606060;
+}
+
+.subscribe {
+    border-radius: 70px;
+}
