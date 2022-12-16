@@ -34,6 +34,9 @@
 
 .subscribe {
     border-radius: 70px;
+    font-weight: 500;
+    font-family: 'Roboto';
+    font-size: 15px;
 }
 
 .channel-art {

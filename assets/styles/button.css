@@ -16,6 +16,8 @@
     cursor: pointer;
     transition: opacity 0.125s;
 
+    font-family: 'Roboto';
+
 }
 
 .primary-button:hover {
@@ -36,7 +38,8 @@
     border-radius: 7px;
     cursor: pointer;
     transition: opacity 0.125s;
-    margin-left: 10px
+    margin-left: 10px;
+    font-family: 'Roboto';
 }
 
 .secondary-button:hover {
