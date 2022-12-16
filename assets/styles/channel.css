@@ -54,14 +54,28 @@
 }
 
 .channel-links {
-    background-color: lightpink;
-    width: 200px;
-    
-    
+    background-color: rgba(214, 208, 208, 0.1);
+    color: white;
+    width: 210px;
     position: absolute;
+
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    
-    right: 5px;
-    bottom: 5px;
+    right: 10px;
+    bottom: 10px;
+    font-size: 12px;
+    padding: 4px 6px;
+    border-radius: 3px;
+}
+
+.channel-links-img {
+    width: 16px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.channel-link {
+    color: white;
+    text-decoration: none;
 }
