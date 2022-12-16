@@ -1,7 +1,7 @@
 nav {
     height: 60px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 25px;
+    padding-right: 20px;
 
     background-color: white;
     display: flex;
@@ -34,6 +34,7 @@ nav {
 
 .youtube-img {
     width: 92px;
+    margin-left: 20px;
      
 }
 
