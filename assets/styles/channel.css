@@ -19,6 +19,7 @@
 .channel-subscribe {
     display: flex;
     justify-content: end;
+    align-items: center;
 }
 
 .channel-title {
