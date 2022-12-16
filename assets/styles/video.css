@@ -1,12 +1,10 @@
 .video-grid {
     margin-top: 20px;
-
+    margin-left: 67px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr; 
-    column-gap: 16px;
+    column-gap: 1px;
     row-gap: 40px;
-    
-     
 }
 
 .video-preview {
@@ -14,9 +12,8 @@
 }
 
 .video-thumbnail {
-    width: 300px;
+    width: 308px;
     height: 170px;
-    
 
 }
 

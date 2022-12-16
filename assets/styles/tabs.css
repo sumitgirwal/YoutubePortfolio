@@ -1,0 +1,46 @@
+.tabs {
+    margin-top: 20px;
+    margin-left: 67px;
+
+    display: flex;  
+    flex-direction: row;  
+    
+    justify-content: space-between;
+    align-items: center;  
+
+    width: 800px;
+    
+}
+
+
+.tab {
+     
+    padding: 0 32px;
+    vertical-align: middle;
+    color: #606060;
+
+    font-size: 14.50px;
+    font-family: Roboto;
+    font-weight: 500;
+
+    cursor: pointer;
+
+    
+}
+
+.active {
+    color: #0f0f0f;
+      
+}
+
+.tabs img {
+    width: 20px;
+    cursor: pointer;
+    color: antiquewhite;
+}
+
+hr {
+    border: none;
+    border-bottom: 1px solid #ece0e0;
+    margin-top: 14px;
+}

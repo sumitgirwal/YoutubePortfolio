@@ -13,7 +13,11 @@ p {
 
 
 main {
-    margin: 100px;
     
-    
+    margin-top: 10px;
+    margin-bottom: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
+
+
 }

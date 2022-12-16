@@ -3,11 +3,14 @@
     align-items: center;
 
     margin-top: 25px;
+    margin-left: 67px;
 }
 
 .primary-button {
+    font-family: Roboto, Arial;
     padding: 8px 12px 8px 12px;
-    font-size: 14px;
+    font-size: 14.50px;
+     
     
     border: none;
     background-color: #0f0f0f; /*#f2f2f2*/
@@ -16,7 +19,7 @@
     cursor: pointer;
     transition: opacity 0.125s;
 
-    font-family: 'Roboto';
+    
 
 }
 
@@ -30,7 +33,7 @@
 
 .secondary-button {
     padding: 8px 12px 8px 12px;
-    font-size: 14px;
+    font-size: 14.50px;
     
     background-color: #f2f2f2;  
     color: #0f0f0f;
@@ -38,7 +41,7 @@
     border-radius: 7px;
     cursor: pointer;
     transition: opacity 0.125s;
-    margin-left: 10px;
+    margin-left: 12px;
     font-family: 'Roboto';
 }
 
