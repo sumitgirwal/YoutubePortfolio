@@ -3,7 +3,7 @@ A personal portfolio with youtube theme.
 
 
 #### Resources
-- [Live Demo]()
+- [Live Demo](https://sumitgirwal.github.io/YoutubePortfolio/)
 - [Google fonts](https://fonts.google.com/specimen/Roboto)
 - [Ref. Clone page](https://www.youtube.com/@SuperSimpleDev/videos)
 
